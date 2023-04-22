@@ -6,5 +6,5 @@ Based on the elbow and scatter plots generated using KMeans and PCA, one can con
 
 ![composite_elbow](https://user-images.githubusercontent.com/119253324/233811863-86fabe31-a022-4537-84e2-a2c6fe13ae57.png)
 
-![composite_scatter](https://user-images.githubusercontent.com/119253324/233811867-2502ad5a-b98c-4f1f-b48b-bfefd8343c00.png)
+![composite_scatter](https://user-images.githubusercontent.com/119253324/233811912-5036eabf-b691-4d0f-94c8-b343e0cbe570.png)
 
